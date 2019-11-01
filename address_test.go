@@ -13,9 +13,9 @@ import (
 	"testing"
 
 	"github.com/btcsuite/golangcrypto/ripemd160"
-	"github.com/dashpay/godash/chaincfg"
-	"github.com/dashpay/godash/wire"
-	"github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/chaincfg"
+	"github.com/BlockABC/godash/wire"
+	"github.com/BlockABC/godashutil"
 )
 
 // invalidNet is an invalid bitcoin network.

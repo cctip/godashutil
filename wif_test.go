@@ -8,9 +8,9 @@ package godashutil_test
 import (
 	"testing"
 
-	"github.com/dashpay/godash/btcec"
-	"github.com/dashpay/godash/chaincfg"
-	. "github.com/dashpay/godashutil"
+	"github.com/BlockABC/godash/btcec"
+	"github.com/BlockABC/godash/chaincfg"
+	. "github.com/BlockABC/godashutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dashpay/godash/wire"
+	"github.com/BlockABC/godash/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out

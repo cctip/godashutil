@@ -8,7 +8,7 @@ package base58_test
 import (
 	"testing"
 
-	"github.com/dashpay/godashutil/base58"
+	"github.com/BlockABC/godashutil/base58"
 )
 
 var checkEncodingStringTests = []struct {
