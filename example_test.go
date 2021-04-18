@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/BlockABC/godashutil"
+	"github.com/cctip/godashutil"
 )
 
 func ExampleAmount() {

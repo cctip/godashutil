@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/BlockABC/godashutil/base58"
+	"github.com/cctip/godashutil/base58"
 )
 
 func BenchmarkBase58Encode(b *testing.B) {

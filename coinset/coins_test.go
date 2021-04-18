@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/btcsuite/fastsha256"
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil"
-	"github.com/BlockABC/godashutil/coinset"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil"
+	"github.com/cctip/godashutil/coinset"
 )
 
 type TestCoin struct {

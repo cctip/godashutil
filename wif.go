@@ -9,10 +9,10 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/BlockABC/godash/btcec"
-	"github.com/BlockABC/godash/chaincfg"
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil/base58"
+	"github.com/cctip/godash/btcec"
+	"github.com/cctip/godash/chaincfg"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

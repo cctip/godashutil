@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil"
 	"github.com/davecgh/go-spew/spew"
 )
 

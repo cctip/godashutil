@@ -13,7 +13,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/BlockABC/godashutil"
+	"github.com/cctip/godashutil"
 )
 
 // TestAppDataDir tests the API for AppDataDir to ensure it gives expected

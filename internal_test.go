@@ -14,8 +14,8 @@ package godashutil
 
 import (
 	"github.com/btcsuite/golangcrypto/ripemd160"
-	"github.com/BlockABC/godash/btcec"
-	"github.com/BlockABC/godashutil/base58"
+	"github.com/cctip/godash/btcec"
+	"github.com/cctip/godashutil/base58"
 )
 
 // SetBlockBytes sets the internal serialized block byte buffer to the passed

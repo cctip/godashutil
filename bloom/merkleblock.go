@@ -6,9 +6,9 @@
 package bloom
 
 import (
-	"github.com/BlockABC/godash/blockchain"
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil"
+	"github.com/cctip/godash/blockchain"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a

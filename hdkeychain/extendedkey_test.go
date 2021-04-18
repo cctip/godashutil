@@ -16,8 +16,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/BlockABC/godash/chaincfg"
-	"github.com/BlockABC/godashutil/hdkeychain"
+	"github.com/cctip/godash/chaincfg"
+	"github.com/cctip/godashutil/hdkeychain"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

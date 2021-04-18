@@ -19,11 +19,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/BlockABC/godash/btcec"
-	"github.com/BlockABC/godash/chaincfg"
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil"
-	"github.com/BlockABC/godashutil/base58"
+	"github.com/cctip/godash/btcec"
+	"github.com/cctip/godash/chaincfg"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil"
+	"github.com/cctip/godashutil/base58"
 )
 
 const (

@@ -10,9 +10,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/BlockABC/godash/txscript"
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil"
+	"github.com/cctip/godash/txscript"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil"
 )
 
 // ln2Squared is simply the square of the natural log of 2.

@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/BlockABC/godash/wire"
+	"github.com/cctip/godash/wire"
 )
 
 // TxIndexUnknown is the value returned for a transaction index that is unknown.

@@ -5,8 +5,8 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil"
 )
 
 // Coin represents a spendable transaction outpoint

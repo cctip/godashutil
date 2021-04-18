@@ -10,8 +10,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil/bloom"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

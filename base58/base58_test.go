@@ -10,7 +10,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/BlockABC/godashutil/base58"
+	"github.com/cctip/godashutil/base58"
 )
 
 var stringTests = []struct {

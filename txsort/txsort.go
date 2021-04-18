@@ -12,7 +12,7 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/BlockABC/godash/wire"
+	"github.com/cctip/godash/wire"
 )
 
 // InPlaceSort modifies the passed transaction inputs and outputs to be sorted

@@ -10,9 +10,9 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil"
-	"github.com/BlockABC/godashutil/bloom"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil"
+	"github.com/cctip/godashutil/bloom"
 )
 
 func TestMerkleBlock3(t *testing.T) {

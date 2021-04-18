@@ -8,8 +8,8 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/BlockABC/godash/chaincfg"
-	"github.com/BlockABC/godashutil/hdkeychain"
+	"github.com/cctip/godash/chaincfg"
+	"github.com/cctip/godashutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

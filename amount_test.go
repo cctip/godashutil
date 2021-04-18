@@ -9,7 +9,7 @@ import (
 	"math"
 	"testing"
 
-	. "github.com/BlockABC/godashutil"
+	. "github.com/cctip/godashutil"
 )
 
 func TestAmountCreation(t *testing.T) {

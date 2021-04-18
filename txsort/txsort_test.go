@@ -12,8 +12,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/BlockABC/godash/wire"
-	"github.com/BlockABC/godashutil/txsort"
+	"github.com/cctip/godash/wire"
+	"github.com/cctip/godashutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.
